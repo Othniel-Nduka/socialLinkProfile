@@ -14,8 +14,8 @@ Users should be able to:
 ![](./socialLInkProfile_PC.jpg)
 
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/Othniel-Nduka/socialLinkProfile)
+- Live Site URL: (https://social-link-profile-beta-ruby.vercel.app/)
 
 ### Built with
 
